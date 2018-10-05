@@ -40,7 +40,7 @@ public class ProjetManagerImpl implements ProjetManager {
   }
 
   @Override
-  public void insertVersion(Version pVersion) {
+  public void createVersion(Version pVersion) {
     if (!pVersion.getNumero().isEmpty() && pVersion.getProjet() != null){
       vProjectDao.getAllProjets();
     }

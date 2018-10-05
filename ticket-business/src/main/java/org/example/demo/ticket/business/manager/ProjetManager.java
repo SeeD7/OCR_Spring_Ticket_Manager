@@ -34,5 +34,5 @@ public interface ProjetManager {
   /**
    * Insére une nouvelle {@link Version} d'un {@link Projet} si elle est valide
    */
-  void insertVersion(Version pVersion);
+  void createVersion(Version pVersion);
 }
