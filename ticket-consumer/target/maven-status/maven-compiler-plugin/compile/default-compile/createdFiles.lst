@@ -1,0 +1,17 @@
+org\example\demo\ticket\consumer\impl\rowmapper\EvolutionRM.class
+org\example\demo\ticket\consumer\impl\rowmapper\ProjetRM.class
+org\example\demo\ticket\consumer\impl\rowmapper\UtilisateurRM.class
+org\example\demo\ticket\consumer\contract\dao\TicketDao.class
+org\example\demo\ticket\consumer\impl\dao\AbstractDaoImpl.class
+org\example\demo\ticket\consumer\impl\dao\BugNiveauDaoImpl.class
+org\example\demo\ticket\consumer\impl\rowmapper\BugRM.class
+org\example\demo\ticket\consumer\impl\dao\UtilisateurDaoImpl.class
+org\example\demo\ticket\consumer\contract\dao\BugNiveauDao.class
+org\example\demo\ticket\consumer\contract\dao\TicketStatutDao.class
+org\example\demo\ticket\consumer\impl\dao\TicketDaoImpl.class
+org\example\demo\ticket\consumer\contract\dao\ProjetDao.class
+org\example\demo\ticket\consumer\impl\dao\ProjetDaoImpl.class
+org\example\demo\ticket\consumer\impl\rowmapper\BugNiveauRM.class
+org\example\demo\ticket\consumer\impl\rowmapper\TicketStatutRM.class
+org\example\demo\ticket\consumer\impl\dao\TicketStatutDaoImpl.class
+org\example\demo\ticket\consumer\contract\dao\UtilisateurDao.class

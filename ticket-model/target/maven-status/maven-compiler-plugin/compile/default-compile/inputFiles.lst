@@ -1,0 +1,14 @@
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\bean\ticket\Ticket.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\bean\ticket\Commentaire.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\bean\projet\Projet.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\bean\projet\Version.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\bean\ticket\HistoriqueStatut.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\bean\ticket\Bug.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\bean\utilisateur\Utilisateur.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\recherche\ticket\RechercheTicket.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\bean\ticket\TicketStatut.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\bean\ticket\BugNiveau.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\exception\NotFoundException.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\bean\ticket\Evolution.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\exception\TechnicalException.java
+C:\workspace\tests-learning\Spring\ticket\ticket-model\src\main\java\org\example\demo\ticket\model\exception\FunctionalException.java

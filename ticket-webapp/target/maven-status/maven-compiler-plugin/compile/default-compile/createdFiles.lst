@@ -1,0 +1,5 @@
+org\example\demo\ticket\webapp\rest\provider\filter\JsonCharsetFilter.class
+org\example\demo\ticket\webapp\rest\provider\mapper\exception\NotFoundExceptionMapper.class
+org\example\demo\ticket\webapp\rest\RestApplication.class
+org\example\demo\ticket\webapp\rest\resource\ticket\TicketResource.class
+org\example\demo\ticket\webapp\rest\resource\projet\ProjetResource.class

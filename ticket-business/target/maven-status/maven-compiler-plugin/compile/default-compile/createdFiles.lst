@@ -1,0 +1,5 @@
+org\example\demo\ticket\business\manager\ProjetManager.class
+org\example\demo\ticket\business\factory\ManagerFactory.class
+org\example\demo\ticket\business\manager\impl\TicketManagerImpl.class
+org\example\demo\ticket\business\manager\TicketManager.class
+org\example\demo\ticket\business\manager\impl\ProjetManagerImpl.class

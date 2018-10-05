@@ -1,0 +1,14 @@
+org\example\demo\ticket\model\bean\ticket\Ticket.class
+org\example\demo\ticket\model\bean\ticket\Evolution.class
+org\example\demo\ticket\model\recherche\ticket\RechercheTicket.class
+org\example\demo\ticket\model\exception\NotFoundException.class
+org\example\demo\ticket\model\bean\ticket\BugNiveau.class
+org\example\demo\ticket\model\bean\utilisateur\Utilisateur.class
+org\example\demo\ticket\model\exception\TechnicalException.class
+org\example\demo\ticket\model\bean\projet\Projet.class
+org\example\demo\ticket\model\bean\projet\Version.class
+org\example\demo\ticket\model\bean\ticket\Commentaire.class
+org\example\demo\ticket\model\bean\ticket\Bug.class
+org\example\demo\ticket\model\bean\ticket\TicketStatut.class
+org\example\demo\ticket\model\bean\ticket\HistoriqueStatut.class
+org\example\demo\ticket\model\exception\FunctionalException.class
